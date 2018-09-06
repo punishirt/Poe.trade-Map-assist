@@ -11,5 +11,6 @@ Usage:
 
 1)  Left-click a map to perform a search for that map.
 2)  Right-click a map to toggle its "completion".
+3)  Reset map tiers and their completion by clicking "reset maps" at the bottom of the sidebar.
 
 

@@ -14,3 +14,6 @@ Usage:
 3)  Reset map tiers and their completion by clicking "reset maps" at the bottom of the sidebar.
 
 
+Example of script in action:
+
+![image](https://user-images.githubusercontent.com/6486458/45162452-54552880-b1ee-11e8-85d3-9de310a6ab37.png)

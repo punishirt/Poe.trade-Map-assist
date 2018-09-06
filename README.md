@@ -4,8 +4,9 @@ Show a list of maps (per tier) in a sidebar to the left. Search for a map by lef
 To Install:
 
 1)  Go to http://tampermonkey.net/ and install.  I am using Google Chrome.
-2)  Copy and paste this script into a new file and save.
+2)  Copy and paste the contents of script.js into a new file and save.
 3)  Check out poe.trade and you should see the sidebar appear to your left.
+4)  If you no longer need it, just click the tampermonkey icon and disable this script.
 
 Usage:
 

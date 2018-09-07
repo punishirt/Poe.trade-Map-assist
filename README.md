@@ -3,7 +3,9 @@
 # Poe.trade Map assist
 
 ## Update 0.2: Added unique maps. 
-This update requires you to reset your maps.  This will erase the saved completion of maps due to the fact that the way its saved is far from effective, might improve this for future versions.
+_**This update requires you to reset your maps.  This will erase the saved completion of maps due to the fact that the way its saved is far from effective, might improve this for future versions.**_
+
+
 
 
 Show a list of maps (per tier) in a sidebar to the left. Search for a map by left-clicking on the map, "toggle" the map by right-clicking it, this will put the map on the bottom of the list, slighly dimmed out.

@@ -2,7 +2,10 @@
 
 # Poe.trade Map assist
 
-## Update 0.2: Added unique maps. 
+### Update v0.4: Added unique maps. 
+_Updated the map tiers for the 3.5 Atlas_
+
+### Update v0.2: Added unique maps. 
 _**This update requires you to reset your maps.  This will erase the saved completion of maps due to the fact that the way its saved is far from effective, might improve this for future versions.**_
 
 

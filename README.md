@@ -2,7 +2,10 @@
 
 # Poe.trade Map assist
 
-### Update v0.4: Added unique maps. 
+### Update v0.4: Added "Uncompleted" tier
+_Added "Uncompleted" tier and removed unique maps_
+
+### Update v0.3: Atlas rework
 _Updated the map tiers for the 3.5 Atlas_
 
 ### Update v0.2: Added unique maps. 
